@@ -1,6 +1,4 @@
-@mainpage Documentação do Projeto ACO
 
-## Introdução
 Este projeto implementa o Algoritmo de Colônia de Formigas (ACO)
 para encontrar o máximo e o mínimo da função Picos em uma grade 256x256.
 
@@ -20,5 +18,5 @@ para encontrar o máximo e o mínimo da função Picos em uma grade 256x256.
 - `RouletteWheelSelection.m` → seleção probabilística
 - `PlotSolution.m` → visualização
 
-## Autora
+## Autoria
 Allany Victória Santos Araújo – 2026
