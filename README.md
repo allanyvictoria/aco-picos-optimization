@@ -9,7 +9,7 @@ para encontrar o máximo e o mínimo da função Picos em uma grade 256x256.
 - Encontrar o ponto de mínimo global
 - Analisar a convergência do algoritmo
 
-##️ Como executar
+## Como executar
 - `main_max.m` → busca do máximo
 - `main_min.m` → busca do mínimo
 
